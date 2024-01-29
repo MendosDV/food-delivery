@@ -4,9 +4,9 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faUserSecret } from '@fortawesome/free-solid-svg-icons'
+import { faUserSecret, faUser, faM, faBars } from '@fortawesome/free-solid-svg-icons'
 
-library.add(faUserSecret)
+library.add(faUserSecret, faUser, faM, faBars)
 
 createApp(App)
 .component('font-awesome-icon', FontAwesomeIcon)
