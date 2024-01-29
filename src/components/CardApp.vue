@@ -19,6 +19,9 @@ export default {
 </script>
 
 <style>
+  .card:hover {
+    cursor: pointer;
+  }
   img {
     max-height: 120px;
     object-fit: cover;
