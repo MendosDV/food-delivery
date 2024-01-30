@@ -1,8 +1,5 @@
 <template>
   <div class="navbar mb-5 d-flex justify-content-between align-items-center">
-    <!-- <span class="user-logo p-2 rounded">
-      <font-awesome-icon :icon="['fas', 'm']" style="color: #ffffff;" />
-    </span> -->
     <TitleApp />
     <div class="d-flex gap-4 align-items-center">
       <div class="d-flex gap-2 align-items-center">
@@ -12,7 +9,6 @@
       <h6 class="m-auto fw-light">CARD</h6>
       <font-awesome-icon :icon="['fas', 'bars']" style="color: #ffffff;" />
     </div>
-
   </div>
 </template>
 
