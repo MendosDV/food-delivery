@@ -8,7 +8,7 @@
       <a href="#"><i class="fab fa-linkedin"></i></a>
     </div>
     <div class="footer-copyright text-white">
-      This website is made with love by Mickael Riss
+      This website is made by Mickael Riss
     </div>
   </div>
 </template>
